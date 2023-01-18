@@ -13,5 +13,3 @@ How to use this project?
 6.in terminal type: Brownie run Scripts/deploy_and_create.py --network goerli
 
 7. If your wallet is connected correctly, you will see the url of your nft as an output.
-
-
